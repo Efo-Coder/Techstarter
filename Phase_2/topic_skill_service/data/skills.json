@@ -1,0 +1,29 @@
+[
+    {
+        "id": "s2",
+        "name": "CSS Layouts (Flexbox/Grid)",
+        "topicId": "t1",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": "s3",
+        "name": "React Hooks",
+        "topicId": "t2",
+        "difficulty": "advanced",
+        "prerequisites": [
+            "s4"
+        ]
+    },
+    {
+        "id": "s4",
+        "name": "JavaScript ES6+",
+        "topicId": "t1",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": "017c98c0-7011-4a32-aa8b-49f8f207c0a6",
+        "name": "Grundlagen von Python",
+        "topicId": "t3",
+        "difficulty": "beginner"
+    }
+]

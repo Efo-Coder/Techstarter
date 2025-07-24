@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Efrahim Haser">
+    <title>Chat Messenger</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+        crossorigin="anonymous"></script>
+
+    <style>
+        .my-form {
+            position: fixed;
+            bottom: 24px;
+            right: 80px;
+            left: 80px;
+            width: calc(100% - 160px);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Icon -->
+    <img src="messenger.png" alt="Messenger Icon" width="30" hspace="5" vspace="13" align="left">
+
+    <!-- Überschrift -->
+    <nav class="navbar bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Chat Messenger</a>
+        </div>
+    </nav>
+
+    <!-- Trennstreifen -->
+    <hr>
+
+    <div class="container">
+        <!-- Nachricht rechts UI -->
+        <div class="d-flex justify-content-end mt-4">
+            <div class="card">
+                <div class="card-body">Hallo</div>
+            </div>
+        </div>
+
+        <!-- Nachricht links UI -->
+        <div class="d-flex justfiy-content-start mt-4">
+            <div class="card">
+                <div class="card-body">Hey, lange nichts gehört!</div>
+            </div>
+        </div>
+
+        <!-- Text senden UI -->
+        <form class="input-group mb-3 my-form">
+            <input type="text" class="form-control" placeholder="Enter message..." aria-label="Recipient’s username"
+                aria-describedby="button-addon2">
+            <button class="btn btn-outline-secondary" type="button" id="button-addon2">Send</button>
+        </form>
+    </div>
+</body>
+
+</html>

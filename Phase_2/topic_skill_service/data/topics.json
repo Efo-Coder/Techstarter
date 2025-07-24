@@ -1,0 +1,27 @@
+[
+    {
+        "id": "t2",
+        "name": "Frontend Development",
+        "description": "Fokus auf die Benutzeroberfl\u00e4che und Interaktion, wie React, Vue oder Angular."
+    },
+    {
+        "id": "t3",
+        "name": "Backend Development",
+        "description": "Server-seitige Logik, Datenbanken und APIs, z.B. mit Python Flask oder Node.js Express."
+    },
+    {
+        "id": "ceeac0cd-9457-43cd-a3ab-6871daa04fc5",
+        "name": "Grundlagen der K\u00fcnstlichen Intelligenz",
+        "description": "Eine Einf\u00fchrung in die Konzepte und Anwendungen von KI, einschlie\u00dflich maschinellem Lernen und neuronalen Netzen."
+    },
+    {
+        "id": "b41aa574-8967-4ca8-a0cb-bc587da315c6",
+        "name": "Grundlagen der K\u00fcnstlichen Intelligenz",
+        "description": "Eine Einf\u00fchrung in die Konzepte und Anwendungen von KI, einschlie\u00dflich maschinellem Lernen und neuronalen Netzen."
+    },
+    {
+        "id": "1725d16f-2767-432e-99e4-2128f077643e",
+        "name": "Grundlagen der K\u00fcnstlichen Intelligenz",
+        "description": "Eine Einf\u00fchrung in die Konzepte und Anwendungen von KI, einschlie\u00dflich maschinellem Lernen und neuronalen Netzen."
+    }
+]
